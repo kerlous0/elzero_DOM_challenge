@@ -1,2 +1,2 @@
 # elzero_DOM_challenge
-DOM Challenge
+DOM Challenge: build full page with js only 
